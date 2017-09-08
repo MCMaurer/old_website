@@ -16,7 +16,28 @@ border-bottom:2px solid black;
    float:left;
    width:100px;
    height:100px;
-   margin-left:5px; //If you want some space between them
+   margin-left:10px; //If you want some space between them
+}
+#img3
+{
+   float:left;
+   width:100px;
+   height:100px;
+   margin-left:10px; //If you want some space between them
+}
+#img4
+{
+   float:left;
+   width:100px;
+   height:100px;
+   margin-left:10px; //If you want some space between them
+}
+#img5
+{
+   float:left;
+   width:100px;
+   height:100px;
+   margin-left:10px; //If you want some space between them
 }
 body {
     margin: 60px auto;
